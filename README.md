@@ -1,7 +1,5 @@
 # Simple Go Web Server (Form + Static Files)
 
-![Banner](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)
-
 A simple Go web server that serves static files, handles form submissions, and responds to a `/hello` route.  
 Perfect for beginners learning Go backend basics.
 

@@ -12,6 +12,3 @@ Perfect for beginners learning Go backend basics.
 - Beginner-friendly clean code  
 
 ---
-
-## 📁 Project Structure
-
